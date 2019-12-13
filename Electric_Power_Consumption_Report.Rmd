@@ -1,6 +1,6 @@
 ---
-title: "`data.table` Case Study - Women in Parliament"
-author: "Saghir Bashir"
+title: " Case Study - Electric Power Consumption"
+author: "Miguel Vitorino"
 date: "`r format(Sys.time(), '%a %d %b %Y (%H:%M:%S)')`"
 output:
   html_document:
@@ -34,12 +34,11 @@ library(kableExtra)
 theme_set(theme_classic(base_size = 16))
 ```
 
-# Case Study: Women in Parliament
+# Case Study - Electric Power Consumption
 
 # Objectives
 
-*Explore the geographical and time trends for the percentage of women in 
-national parliaments.*
+*Explore the geographical and time trends for electric power consumption in the world.*
 
 ## Questions
 
